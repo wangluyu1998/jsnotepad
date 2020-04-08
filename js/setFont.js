@@ -1,3 +1,5 @@
+/*global comList*/
+/*exported $dlgFont*/
 var $dlgFont = (function() {
   var $dlg = $(''
       + '<div class="notepad-dlg-mask notepad-dlg-font">'
